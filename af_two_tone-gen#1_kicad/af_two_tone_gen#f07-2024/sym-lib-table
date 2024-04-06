@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name af_two_tone_gen#f07-2024-eagle-import)(type Legacy)(uri ${KIPRJMOD}/af_two_tone_gen#f07-2024-eagle-import.lib)(options "")(descr ""))
+)

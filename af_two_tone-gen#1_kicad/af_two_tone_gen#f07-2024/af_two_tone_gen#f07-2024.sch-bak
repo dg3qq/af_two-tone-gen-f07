@@ -1,0 +1,896 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 13020 8465
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	900  3100 1300 3100
+Wire Wire Line
+	1300 3100 1300 2900
+Wire Wire Line
+	1500 3100 1300 3100
+Wire Wire Line
+	1900 3100 2200 3100
+Wire Wire Line
+	2200 3100 2200 2900
+Wire Wire Line
+	2200 3100 2700 3100
+Connection ~ 2200 3100
+Text Label 1900 3100 0    10   ~ 0
++3V3
+Wire Wire Line
+	7100 1000 7100 800 
+Text Label 7100 1000 0    10   ~ 0
++3V3
+Wire Wire Line
+	7100 4700 7100 4500
+Text Label 7100 4700 0    10   ~ 0
++3V3
+Wire Wire Line
+	900  3400 1300 3400
+Wire Wire Line
+	1300 3400 1300 3500
+Wire Wire Line
+	1300 3400 2200 3400
+Wire Wire Line
+	2700 3400 2200 3400
+Connection ~ 1300 3400
+Connection ~ 2200 3400
+Text Label 900  3400 0    10   ~ 0
+GND
+Wire Wire Line
+	5400 2300 5400 2200
+Text Label 5400 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	7100 2400 7100 2700
+Wire Wire Line
+	7100 2700 7100 3700
+Wire Wire Line
+	8200 1900 8200 2700
+Wire Wire Line
+	8200 2700 7100 2700
+Wire Wire Line
+	8900 1900 8900 2700
+Wire Wire Line
+	8900 2700 8200 2700
+Connection ~ 7100 2700
+Connection ~ 8200 2700
+Text Label 7100 2400 0    10   ~ 0
+GND
+Wire Wire Line
+	5400 6000 5400 5900
+Text Label 5400 6000 0    10   ~ 0
+GND
+Wire Wire Line
+	7100 6100 7100 6400
+Wire Wire Line
+	7100 6400 7100 7400
+Wire Wire Line
+	8200 5600 8200 6400
+Wire Wire Line
+	8200 6400 7100 6400
+Wire Wire Line
+	8900 5600 8900 6400
+Wire Wire Line
+	8900 6400 8200 6400
+Connection ~ 8200 6400
+Connection ~ 7100 6400
+Text Label 7100 6100 0    10   ~ 0
+GND
+Wire Wire Line
+	11000 4500 11000 4700
+Wire Wire Line
+	11900 4700 11000 4700
+Text Label 11000 4500 0    10   ~ 0
+GND
+Wire Wire Line
+	4100 4200 4500 4200
+Wire Wire Line
+	4500 4200 4500 4300
+Text Label 4100 4200 0    10   ~ 0
+GND
+Wire Wire Line
+	8700 3900 9000 3900
+Wire Wire Line
+	9000 3900 9000 4000
+Text Label 8700 3900 0    10   ~ 0
+GND
+Wire Wire Line
+	5300 1800 5400 1800
+Wire Wire Line
+	5400 1800 5500 1800
+Wire Wire Line
+	5400 1900 5400 1800
+Connection ~ 5400 1800
+Wire Wire Line
+	5900 1800 6100 1800
+Wire Wire Line
+	6100 1800 6100 2200
+Wire Wire Line
+	6100 2200 6100 2600
+Wire Wire Line
+	6100 2600 6100 2900
+Wire Wire Line
+	6900 2200 6100 2200
+Connection ~ 6100 2600
+Connection ~ 6100 2200
+Wire Wire Line
+	4900 1800 4700 1800
+Wire Wire Line
+	4700 1800 4700 2200
+Wire Wire Line
+	4700 2200 4700 2600
+Wire Wire Line
+	4700 2600 4700 2900
+Wire Wire Line
+	4700 2900 5000 2900
+Wire Wire Line
+	4700 2200 4400 2200
+Wire Wire Line
+	4400 2200 4400 1500
+Wire Wire Line
+	4400 1500 7100 1500
+Wire Wire Line
+	7100 1500 7100 2000
+Wire Wire Line
+	7100 1500 7100 1400
+Wire Wire Line
+	7300 1500 7100 1500
+Wire Wire Line
+	4800 2600 4700 2600
+Connection ~ 4700 2200
+Connection ~ 7100 1500
+Wire Wire Line
+	5300 2900 5400 2900
+Wire Wire Line
+	5400 3400 5400 3100
+Wire Wire Line
+	5400 3100 5400 2900
+Wire Wire Line
+	5100 2600 5400 2600
+Wire Wire Line
+	5400 2600 5400 2900
+Wire Wire Line
+	3700 4100 3500 4100
+Wire Wire Line
+	3500 4100 3500 3100
+Wire Wire Line
+	3500 3100 5400 3100
+Connection ~ 5400 2900
+Connection ~ 5400 2600
+Connection ~ 5400 3100
+Wire Wire Line
+	7700 1500 7600 1500
+Wire Wire Line
+	8100 1500 8200 1500
+Wire Wire Line
+	8200 1500 8400 1500
+Wire Wire Line
+	8200 1600 8200 1500
+Connection ~ 8200 1500
+Wire Wire Line
+	8800 1500 8900 1500
+Wire Wire Line
+	8900 1500 8900 1600
+Wire Wire Line
+	8900 1500 8900 1100
+Wire Wire Line
+	8900 1500 10300 1500
+Wire Wire Line
+	10300 1500 10300 3600
+Connection ~ 8900 1500
+Wire Wire Line
+	5300 5500 5400 5500
+Wire Wire Line
+	5400 5500 5500 5500
+Wire Wire Line
+	5400 5600 5400 5500
+Connection ~ 5400 5500
+Wire Wire Line
+	5900 5500 6100 5500
+Wire Wire Line
+	6100 5500 6100 5900
+Wire Wire Line
+	6100 5900 6100 6600
+Wire Wire Line
+	6900 5900 6100 5900
+Connection ~ 6100 5900
+Wire Wire Line
+	4900 5500 4700 5500
+Wire Wire Line
+	4700 5500 4700 5900
+Wire Wire Line
+	4700 5900 4700 6600
+Wire Wire Line
+	4700 6600 5000 6600
+Wire Wire Line
+	4700 5900 4400 5900
+Wire Wire Line
+	4400 5900 4400 5200
+Wire Wire Line
+	4400 5200 7100 5200
+Wire Wire Line
+	7100 5200 7100 5700
+Wire Wire Line
+	7100 5200 7100 5100
+Wire Wire Line
+	7300 5200 7100 5200
+Connection ~ 4700 5900
+Connection ~ 7100 5200
+Wire Wire Line
+	5300 6600 5400 6600
+Wire Wire Line
+	5400 7100 5400 6800
+Wire Wire Line
+	5400 6800 5400 6600
+Wire Wire Line
+	5400 6800 3500 6800
+Wire Wire Line
+	3500 6800 3500 4300
+Wire Wire Line
+	3500 4300 3700 4300
+Connection ~ 5400 6800
+Wire Wire Line
+	7700 5200 7600 5200
+Wire Wire Line
+	8100 5200 8200 5200
+Wire Wire Line
+	8200 5200 8400 5200
+Wire Wire Line
+	8200 5300 8200 5200
+Connection ~ 8200 5200
+Wire Wire Line
+	8800 5200 8900 5200
+Wire Wire Line
+	8900 5200 8900 5300
+Wire Wire Line
+	8900 5200 8900 4800
+Wire Wire Line
+	10300 4000 10300 5200
+Wire Wire Line
+	10300 5200 8900 5200
+Connection ~ 8900 5200
+Wire Wire Line
+	10500 3800 11000 3800
+Wire Wire Line
+	11000 3800 11000 4100
+Wire Wire Line
+	11900 4300 11200 4300
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C1
+U 1 1 3BB99FBE
+P 2700 3300
+F 0 "C1" H 2760 3315 59  0000 L BNN
+F 1 "C-EU025_050-025X075" H 2760 3115 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 2700 3300 50  0001 C CNN
+F 3 "" H 2700 3300 50  0001 C CNN
+	1    2700 3300
+	-1   0    0    1   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_2V R1
+U 1 1 0283DCCD
+P 1700 3100
+F 0 "R1" H 1550 3159 59  0000 L BNN
+F 1 "R-EU_0207_2V" H 1550 2970 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_2V" H 1700 3100 50  0001 C CNN
+F 3 "" H 1700 3100 50  0001 C CNN
+	1    1700 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-TRIMM64W R2
+U 1 1 3A85EE58
+P 5200 3400
+F 0 "R2" V 4965 3250 59  0000 L BNN
+F 1 "R-TRIMM64W" V 5050 3250 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:RTRIM64W" H 5200 3400 50  0001 C CNN
+F 3 "" H 5200 3400 50  0001 C CNN
+	1    5200 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND01
+U 1 1 DB8695AC
+P 1300 3600
+F 0 "#GND01" H 1300 3600 50  0001 C CNN
+F 1 "GND" H 1200 3500 59  0000 L BNN
+F 2 "" H 1300 3600 50  0001 C CNN
+F 3 "" H 1300 3600 50  0001 C CNN
+	1    1300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:V+ #P+01
+U 1 1 BCDF72C5
+P 1300 2800
+F 0 "#P+01" H 1300 2800 50  0001 C CNN
+F 1 "V+" V 1200 2700 59  0000 L BNN
+F 2 "" H 1300 2800 50  0001 C CNN
+F 3 "" H 1300 2800 50  0001 C CNN
+	1    1300 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:+3V3 #+3V01
+U 1 1 406B5002
+P 2200 2800
+F 0 "#+3V01" H 2200 2800 50  0001 C CNN
+F 1 "+3V3" V 2100 2600 59  0000 L BNN
+F 2 "" H 2200 2800 50  0001 C CNN
+F 3 "" H 2200 2800 50  0001 C CNN
+	1    2200 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 V+1
+U 1 1 8B6D4532
+P 1000 3100
+F 0 "V+1" H 750 3225 59  0000 L BNN
+F 1 "PINHD-1X1" H 750 2900 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 1000 3100 50  0001 C CNN
+F 3 "" H 1000 3100 50  0001 C CNN
+	1    1000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 V-1
+U 1 1 B61BE59A
+P 1000 3400
+F 0 "V-1" H 750 3525 59  0000 L BNN
+F 1 "PINHD-1X1" H 750 3200 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 1000 3400 50  0001 C CNN
+F 3 "" H 1000 3400 50  0001 C CNN
+	1    1000 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 TP_F1
+U 1 1 D2821A7E
+P 8900 1000
+F 0 "TP_F1" H 8650 1125 59  0000 L BNN
+F 1 "PINHD-1X1" H 8650 800 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 8900 1000 50  0001 C CNN
+F 3 "" H 8900 1000 50  0001 C CNN
+	1    8900 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 OUT_SIG1
+U 1 1 7C7AF68F
+P 12000 4300
+F 0 "OUT_SIG1" H 11750 4425 59  0000 L BNN
+F 1 "PINHD-1X1" H 11750 4100 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 12000 4300 50  0001 C CNN
+F 3 "" H 12000 4300 50  0001 C CNN
+	1    12000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 OUT_GND1
+U 1 1 546AA1F6
+P 12000 4700
+F 0 "OUT_GND1" H 11750 4825 59  0000 L BNN
+F 1 "PINHD-1X1" H 11750 4500 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 12000 4700 50  0001 C CNN
+F 3 "" H 12000 4700 50  0001 C CNN
+	1    12000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 TP_GND1
+U 1 1 DDBDC437
+P 8600 3900
+F 0 "TP_GND1" H 8350 4025 59  0000 L BNN
+F 1 "PINHD-1X1" H 8350 3700 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 8600 3900 50  0001 C CNN
+F 3 "" H 8600 3900 50  0001 C CNN
+	1    8600 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:-NPN-TO92-EBC T1
+U 1 1 A5BEFE10
+P 7000 2200
+F 0 "T1" H 6600 2500 59  0000 L BNN
+F 1 "2n3904" H 6600 2400 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:TO92-EBC" H 7000 2200 50  0001 C CNN
+F 3 "" H 7000 2200 50  0001 C CNN
+	1    7000 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:LED3MM LED1
+U 1 1 D5D4A691
+P 2200 3200
+F 0 "LED1" V 2340 3020 59  0000 L BNN
+F 1 "LED3MM" V 2425 3020 59  0000 L BNN
+F 2 "LED_THT:LED_D3.0mm" H 2200 3200 50  0001 C CNN
+F 3 "" H 2200 3200 50  0001 C CNN
+	1    2200 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R3
+U 1 1 17605137
+P 5100 1800
+F 0 "R3" H 4950 1859 59  0000 L BNN
+F 1 "47k" H 4950 1670 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 5100 1800 50  0001 C CNN
+F 3 "" H 5100 1800 50  0001 C CNN
+	1    5100 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_5V R4
+U 1 1 A9BE52EE
+P 5700 1800
+F 0 "R4" H 5550 1859 59  0000 L BNN
+F 1 "47k" H 5550 1670 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_5V" H 5700 1800 50  0001 C CNN
+F 3 "" H 5700 1800 50  0001 C CNN
+	1    5700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R5
+U 1 1 9EAE4F7A
+P 7100 1200
+F 0 "R5" H 6950 1259 59  0000 L BNN
+F 1 "2k2" H 6950 1070 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 7100 1200 50  0001 C CNN
+F 3 "" H 7100 1200 50  0001 C CNN
+	1    7100 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C2
+U 1 1 CECE576D
+P 5400 2100
+F 0 "C2" H 5460 2115 59  0000 L BNN
+F 1 "22n" H 5460 1915 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 5400 2100 50  0001 C CNN
+F 3 "" H 5400 2100 50  0001 C CNN
+	1    5400 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C3
+U 1 1 298AD1EB
+P 5100 2900
+F 0 "C3" H 5160 2915 59  0000 L BNN
+F 1 "10n" H 5160 2715 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 5100 2900 50  0001 C CNN
+F 3 "" H 5100 2900 50  0001 C CNN
+	1    5100 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C4
+U 1 1 0B226251
+P 5700 2900
+F 0 "C4" H 5760 2915 59  0000 L BNN
+F 1 "10n" H 5760 2715 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 5700 2900 50  0001 C CNN
+F 3 "" H 5700 2900 50  0001 C CNN
+	1    5700 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND02
+U 1 1 13A376EC
+P 7100 3800
+F 0 "#GND02" H 7100 3800 50  0001 C CNN
+F 1 "GND" H 7000 3700 59  0000 L BNN
+F 2 "" H 7100 3800 50  0001 C CNN
+F 3 "" H 7100 3800 50  0001 C CNN
+	1    7100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:+3V3 #+3V02
+U 1 1 37D36547
+P 7100 700
+F 0 "#+3V02" H 7100 700 50  0001 C CNN
+F 1 "+3V3" V 7000 500 59  0000 L BNN
+F 2 "" H 7100 700 50  0001 C CNN
+F 3 "" H 7100 700 50  0001 C CNN
+	1    7100 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND03
+U 1 1 7679BDCC
+P 5400 2400
+F 0 "#GND03" H 5400 2400 50  0001 C CNN
+F 1 "GND" H 5300 2300 59  0000 L BNN
+F 2 "" H 5400 2400 50  0001 C CNN
+F 3 "" H 5400 2400 50  0001 C CNN
+	1    5400 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND04
+U 1 1 D896219B
+P 5200 3800
+F 0 "#GND04" H 5200 3800 50  0001 C CNN
+F 1 "GND" H 5100 3700 59  0000 L BNN
+F 2 "" H 5200 3800 50  0001 C CNN
+F 3 "" H 5200 3800 50  0001 C CNN
+	1    5200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C5
+U 1 1 C01458AC
+P 7400 1500
+F 0 "C5" H 7460 1515 59  0000 L BNN
+F 1 "1u" H 7460 1315 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 7400 1500 50  0001 C CNN
+F 3 "" H 7400 1500 50  0001 C CNN
+	1    7400 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R6
+U 1 1 8664B3EF
+P 7900 1500
+F 0 "R6" H 7750 1559 59  0000 L BNN
+F 1 "4k7" H 7750 1370 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 7900 1500 50  0001 C CNN
+F 3 "" H 7900 1500 50  0001 C CNN
+	1    7900 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C6
+U 1 1 59A31224
+P 8200 1700
+F 0 "C6" H 8260 1715 59  0000 L BNN
+F 1 "22n" H 8260 1515 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 8200 1700 50  0001 C CNN
+F 3 "" H 8200 1700 50  0001 C CNN
+	1    8200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_2V R7
+U 1 1 7C827D6A
+P 8600 1500
+F 0 "R7" H 8450 1559 59  0000 L BNN
+F 1 "4k7" H 8450 1370 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_2V" H 8600 1500 50  0001 C CNN
+F 3 "" H 8600 1500 50  0001 C CNN
+	1    8600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C7
+U 1 1 1E2704F3
+P 8900 1700
+F 0 "C7" H 8960 1715 59  0000 L BNN
+F 1 "22n" H 8960 1515 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 8900 1700 50  0001 C CNN
+F 3 "" H 8900 1700 50  0001 C CNN
+	1    8900 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C3B1
+U 1 1 740A6CAE
+P 4900 2600
+F 0 "C3B1" H 4960 2615 59  0000 L BNN
+F 1 "3n3" H 4960 2415 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 4900 2600 50  0001 C CNN
+F 3 "" H 4900 2600 50  0001 C CNN
+	1    4900 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C4B1
+U 1 1 E1582245
+P 5800 2600
+F 0 "C4B1" H 5860 2615 59  0000 L BNN
+F 1 "3n3" H 5860 2415 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 5800 2600 50  0001 C CNN
+F 3 "" H 5800 2600 50  0001 C CNN
+	1    5800 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-TRIMM64W R8
+U 1 1 FAE95852
+P 5200 7100
+F 0 "R8" V 4965 6950 59  0000 L BNN
+F 1 "R-TRIMM64W" V 5050 6950 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:RTRIM64W" H 5200 7100 50  0001 C CNN
+F 3 "" H 5200 7100 50  0001 C CNN
+	1    5200 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:PINHD-1X1 TP_F2
+U 1 1 113FEA2D
+P 8900 4700
+F 0 "TP_F2" H 8650 4825 59  0000 L BNN
+F 1 "PINHD-1X1" H 8650 4500 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:1X01" H 8900 4700 50  0001 C CNN
+F 3 "" H 8900 4700 50  0001 C CNN
+	1    8900 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:-NPN-TO92-EBC T2
+U 1 1 3AE69C7F
+P 7000 5900
+F 0 "T2" H 6600 6200 59  0000 L BNN
+F 1 "2n3904" H 6600 6100 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:TO92-EBC" H 7000 5900 50  0001 C CNN
+F 3 "" H 7000 5900 50  0001 C CNN
+	1    7000 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R9
+U 1 1 8A4DF451
+P 5100 5500
+F 0 "R9" H 4950 5559 59  0000 L BNN
+F 1 "33k" H 4950 5370 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 5100 5500 50  0001 C CNN
+F 3 "" H 5100 5500 50  0001 C CNN
+	1    5100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_5V R10
+U 1 1 DDA9E071
+P 5700 5500
+F 0 "R10" H 5550 5559 59  0000 L BNN
+F 1 "33k" H 5550 5370 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_5V" H 5700 5500 50  0001 C CNN
+F 3 "" H 5700 5500 50  0001 C CNN
+	1    5700 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R11
+U 1 1 25EE9BA4
+P 7100 4900
+F 0 "R11" H 6950 4959 59  0000 L BNN
+F 1 "2k2" H 6950 4770 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 7100 4900 50  0001 C CNN
+F 3 "" H 7100 4900 50  0001 C CNN
+	1    7100 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C8
+U 1 1 4170F4A6
+P 5400 5800
+F 0 "C8" H 5460 5815 59  0000 L BNN
+F 1 "10n" H 5460 5615 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 5400 5800 50  0001 C CNN
+F 3 "" H 5400 5800 50  0001 C CNN
+	1    5400 5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C9
+U 1 1 9BDDEBBA
+P 5100 6600
+F 0 "C9" H 5160 6615 59  0000 L BNN
+F 1 "4n7" H 5160 6415 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 5100 6600 50  0001 C CNN
+F 3 "" H 5100 6600 50  0001 C CNN
+	1    5100 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND05
+U 1 1 EF27308A
+P 7100 7500
+F 0 "#GND05" H 7100 7500 50  0001 C CNN
+F 1 "GND" H 7000 7400 59  0000 L BNN
+F 2 "" H 7100 7500 50  0001 C CNN
+F 3 "" H 7100 7500 50  0001 C CNN
+	1    7100 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:+3V3 #+3V03
+U 1 1 A56F219E
+P 7100 4400
+F 0 "#+3V03" H 7100 4400 50  0001 C CNN
+F 1 "+3V3" V 7000 4200 59  0000 L BNN
+F 2 "" H 7100 4400 50  0001 C CNN
+F 3 "" H 7100 4400 50  0001 C CNN
+	1    7100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND06
+U 1 1 A07C0193
+P 5400 6100
+F 0 "#GND06" H 5400 6100 50  0001 C CNN
+F 1 "GND" H 5300 6000 59  0000 L BNN
+F 2 "" H 5400 6100 50  0001 C CNN
+F 3 "" H 5400 6100 50  0001 C CNN
+	1    5400 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND07
+U 1 1 9CDE76EF
+P 5200 7500
+F 0 "#GND07" H 5200 7500 50  0001 C CNN
+F 1 "GND" H 5100 7400 59  0000 L BNN
+F 2 "" H 5200 7500 50  0001 C CNN
+F 3 "" H 5200 7500 50  0001 C CNN
+	1    5200 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C11
+U 1 1 6062EDB6
+P 7400 5200
+F 0 "C11" H 7460 5215 59  0000 L BNN
+F 1 "1u" H 7460 5015 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 7400 5200 50  0001 C CNN
+F 3 "" H 7400 5200 50  0001 C CNN
+	1    7400 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_10 R12
+U 1 1 0E8D017C
+P 7900 5200
+F 0 "R12" H 7750 5259 59  0000 L BNN
+F 1 "10k" H 7750 5070 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_10" H 7900 5200 50  0001 C CNN
+F 3 "" H 7900 5200 50  0001 C CNN
+	1    7900 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C12
+U 1 1 D0EC5747
+P 8200 5400
+F 0 "C12" H 8260 5415 59  0000 L BNN
+F 1 "3n3" H 8260 5215 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 8200 5400 50  0001 C CNN
+F 3 "" H 8200 5400 50  0001 C CNN
+	1    8200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-EU_0207_2V R13
+U 1 1 DEE37B10
+P 8600 5200
+F 0 "R13" H 8450 5259 59  0000 L BNN
+F 1 "10k" H 8450 5070 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:0207_2V" H 8600 5200 50  0001 C CNN
+F 3 "" H 8600 5200 50  0001 C CNN
+	1    8600 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C13
+U 1 1 18324B50
+P 8900 5400
+F 0 "C13" H 8960 5415 59  0000 L BNN
+F 1 "3n3" H 8960 5215 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:C025_050-025X075" H 8900 5400 50  0001 C CNN
+F 3 "" H 8900 5400 50  0001 C CNN
+	1    8900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-TRIMM64W R14
+U 1 1 9E951208
+P 10300 3800
+F 0 "R14" V 10065 3650 59  0000 L BNN
+F 1 "R-TRIMM64W" V 10150 3650 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:RTRIM64W" H 10300 3800 50  0001 C CNN
+F 3 "" H 10300 3800 50  0001 C CNN
+	1    10300 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:R-TRIMM64W R15
+U 1 1 3A3DC519
+P 11000 4300
+F 0 "R15" V 10765 4150 59  0000 L BNN
+F 1 "R-TRIMM64W" V 10850 4150 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:RTRIM64W" H 11000 4300 50  0001 C CNN
+F 3 "" H 11000 4300 50  0001 C CNN
+	1    11000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND08
+U 1 1 DF24F9E8
+P 11000 4800
+F 0 "#GND08" H 11000 4800 50  0001 C CNN
+F 1 "GND" H 10900 4700 59  0000 L BNN
+F 2 "" H 11000 4800 50  0001 C CNN
+F 3 "" H 11000 4800 50  0001 C CNN
+	1    11000 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND09
+U 1 1 928DF91D
+P 4500 4400
+F 0 "#GND09" H 4500 4400 50  0001 C CNN
+F 1 "GND" H 4400 4300 59  0000 L BNN
+F 2 "" H 4500 4400 50  0001 C CNN
+F 3 "" H 4500 4400 50  0001 C CNN
+	1    4500 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:TL39PO S1
+U 1 1 CEBFFD5E
+P 3900 4200
+F 0 "S1" V 4100 4100 59  0000 L BNN
+F 1 "TL39PO" V 4200 4100 59  0000 L BNN
+F 2 "af_two_tone_gen#f07-2024:TL3XPO" H 3900 4200 50  0001 C CNN
+F 3 "" H 3900 4200 50  0001 C CNN
+	1    3900 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:GND #GND010
+U 1 1 845C69E3
+P 9000 4100
+F 0 "#GND010" H 9000 4100 50  0001 C CNN
+F 1 "GND" H 8900 4000 59  0000 L BNN
+F 2 "" H 9000 4100 50  0001 C CNN
+F 3 "" H 9000 4100 50  0001 C CNN
+	1    9000 4100
+	1    0    0    -1  
+$EndComp
+Text Notes 10400 3500 0    59   ~ 0
+balance
+Text Notes 11100 4100 0    59   ~ 0
+level
+Text Notes 5500 3600 0    59   ~ 0
+f1 (450 .. Hz)
+Text Notes 5600 7100 0    59   ~ 0
+f2 (1700 .. 2800 Hz)
+Text Notes 3300 4500 0    59   ~ 0
+f1
+Text Notes 3300 4000 0    59   ~ 0
+f2
+Text Notes 3100 4200 0    59   ~ 0
+f1 + f2
+Wire Wire Line
+	5400 2900 6100 2900
+Wire Wire Line
+	5400 2600 6100 2600
+Connection ~ 5400 6600
+Wire Wire Line
+	5400 6600 6100 6600
+$Comp
+L af_two_tone_gen#f07-2024-eagle-import:C-EU025_050-025X075 C10
+U 1 1 03AE6EB5
+P 5700 6600
+F 0 "C10" H 5760 6615 59  0000 L BNN
+F 1 "4n7" H 5760 6415 59  0000 L BNN
+F 2 "Capacitor_THT:C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT" H 5700 6600 50  0001 C CNN
+F 3 "" H 5700 6600 50  0001 C CNN
+	1    5700 6600
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC
