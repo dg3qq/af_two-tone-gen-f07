@@ -1,0 +1,224 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# af_two_tone_gen#f07-2024-eagle-import_+3V3
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_+3V3 #+3V3 0 40 Y Y 1 L P
+F0 "#+3V3" 0 0 50 H I C CNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_+3V3" -100 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 -50 -75 N
+P 2 1 0 0 50 -75 0 0 N
+X +3V3 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_-NPN-TO92-EBC
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_-NPN-TO92-EBC T 0 40 Y Y 1 L N
+F0 "T" -400 300 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_-NPN-TO92-EBC" -400 200 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -10 -100 20 100 1 0 0 F
+P 2 1 0 0 50 -100 70 -60 N
+P 2 1 0 0 60 -95 90 -95 N
+P 2 1 0 0 60 -90 75 -90 N
+P 2 1 0 0 60 -80 12 -56 N
+P 2 1 0 0 70 -70 60 -90 N
+P 2 1 0 0 70 -60 100 -100 N
+P 2 1 0 0 75 -90 70 -80 N
+P 2 1 0 0 90 -95 70 -70 N
+P 2 1 0 0 100 -100 50 -100 N
+P 2 1 0 0 100 100 20 60 N
+X B B -100 0 100 R 0 0 1 0 P
+X C C 100 200 100 D 0 0 1 0 P
+X E E 100 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_C-EU025_050-025X075
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_C-EU025_050-025X075 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_C-EU025_050-025X075" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_GND
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_GND #GND 0 40 Y Y 1 L P
+F0 "#GND" 0 0 50 H I C CNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_GND" -100 -100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -75 0 75 0 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_LED3MM
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_LED3MM LED 0 40 Y Y 1 L N
+F0 "LED" 140 -180 59 V V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_LED3MM" 225 -180 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -80 -30 -135 -85 N
+P 2 1 0 0 -75 -75 -130 -130 N
+P 2 1 0 0 0 -100 -50 -100 N
+P 2 1 0 0 0 -100 -50 0 N
+P 2 1 0 0 0 0 -50 0 N
+P 2 1 0 0 0 0 0 -100 N
+P 2 1 0 0 50 -100 0 -100 N
+P 2 1 0 0 50 0 0 -100 N
+P 2 1 0 0 50 0 0 0 N
+P 3 1 0 0 -135 -85 -120 -50 -100 -70 F
+P 3 1 0 0 -130 -130 -115 -95 -95 -115 F
+X A A 0 100 100 D 0 0 1 0 P
+X C K 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_PINHD-1X1
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_PINHD-1X1 JP 0 40 Y Y 1 L N
+F0 "JP" -250 125 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_PINHD-1X1" -250 -200 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -250 -100 50 -100 N
+P 2 1 0 0 -250 100 -250 -100 N
+P 2 1 0 0 50 -100 50 100 N
+P 2 1 0 0 50 100 -250 100 N
+X 1 1 -100 0 100 R 50 0 1 0 P I
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_10
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_10 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_10" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_2V
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_2V R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_2V" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_5V
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_5V R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_R-EU_0207_5V" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -35 -100 35 N
+P 2 1 0 0 -100 -35 100 -35 N
+P 2 1 0 0 100 -35 100 35 N
+P 2 1 0 0 100 35 -100 35 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_R-TRIMM64W
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_R-TRIMM64W R 0 40 Y Y 1 L N
+F0 "R" -235 -150 59 V V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_R-TRIMM64W" -150 -150 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 -100 -100 -20 N
+P 2 1 0 0 -100 -20 -120 -60 N
+P 2 1 0 0 -100 -20 -80 -60 N
+P 2 1 0 0 -90 50 -65 95 N
+P 2 1 0 0 -30 -100 30 -100 N
+P 2 1 0 0 -30 100 -30 -100 N
+P 2 1 0 0 0 100 -30 100 N
+P 2 1 0 0 0 100 0 200 N
+P 2 1 0 0 30 -100 30 100 N
+P 2 1 0 0 30 100 0 100 N
+P 2 1 0 0 65 0 -74 69 N
+P 2 1 0 0 100 0 65 0 N
+X E 1 0 -200 100 U 50 0 1 0 P
+X S 2 200 0 100 L 50 0 1 0 P
+X A 3 0 200 100 D 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_TL39PO
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_TL39PO S 0 40 Y Y 1 L N
+F0 "S" 200 -100 59 V V L BNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_TL39PO" 300 -100 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 100 -100 125 N
+P 2 1 0 0 -100 100 -50 100 N
+P 2 1 0 0 0 -125 0 130 N
+P 2 1 0 0 50 100 100 100 N
+P 2 1 0 0 100 100 100 125 N
+X O 1 -100 200 100 D 50 0 1 0 P
+X P 2 0 -200 100 U 50 0 1 0 P
+X S 3 100 200 100 D 50 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# af_two_tone_gen#f07-2024-eagle-import_V+
+#
+DEF af_two_tone_gen#f07-2024-eagle-import_V+ #P+ 0 40 Y Y 1 L P
+F0 "#P+" 0 0 50 H I C CNN
+F1 "af_two_tone_gen#f07-2024-eagle-import_V+" -100 -100 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -35 -50 35 -50 N
+P 2 1 0 0 0 5 -35 -50 N
+P 2 1 0 0 35 -50 0 5 N
+X V+ 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+#End Library
